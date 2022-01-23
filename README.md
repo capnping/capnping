@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @capnping
+- 👋 Hi, I’m @Deepak
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python, R, Data Analysis
 - 💞️ I’m looking to collaborate on Data science, ML
